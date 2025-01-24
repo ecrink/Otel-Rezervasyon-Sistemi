@@ -87,11 +87,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Mistral", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(220, 45);
+            this.label3.Location = new System.Drawing.Point(138, 48);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(204, 57);
+            this.label3.Size = new System.Drawing.Size(396, 57);
             this.label3.TabIndex = 5;
-            this.label3.Text = "LUNA OTEL";
+            this.label3.Text = "KARABAYRAKTAR OTEL";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4

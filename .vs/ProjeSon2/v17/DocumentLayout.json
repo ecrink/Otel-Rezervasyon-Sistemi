@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\dal\\daloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\daloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\bl\\bloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\bl\\bloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\ent\u0130tylayer\\elgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\ent\u0130tylayer\\elgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\ent\u0130tylayer\\eloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\ent\u0130tylayer\\eloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\odalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\dal\\dalrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\dalrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\ent\u0130tylayer\\eloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\ent\u0130tylayer\\eloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|c:\\users\\mk\\source\\repos\\nypsonproje\\projeson2\\projeson2\\dal\\daloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\daloda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\bl\\blgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\bl\\blgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\ent\u0130tylayer\\elgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\ent\u0130tylayer\\elgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\ent\u0130tylayer\\elrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\dal\\dalrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\dalrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\dal\\dalgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\dal\\dalgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\bl\\blgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|solutionrelative:projeson2\\bl\\blgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1EFE507-6DEC-47B3-9774-6C4F9839BD1D}|ProjeSon2\\ProjeSon2.csproj|C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\projeson2\\bl\\blrezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "bloda.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\bloda.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\BL\\bloda.cs",
@@ -71,7 +99,116 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T14:56:58.971Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "odalar.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\odalar.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
+              "RelativeToolTip": "ProjeSon2\\odalar.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:26:14.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\Form1.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ProjeSon2\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:20:00.015Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\Form1.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.cs",
+              "RelativeToolTip": "ProjeSon2\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAawCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:21:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\anasayfa.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ProjeSon2\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:20:15.699Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Form1.Designer.cs",
+              "RelativeToolTip": "ProjeSon2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:20:06.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "anasayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\anasayfa.Designer.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\anasayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\anasayfa.Designer.cs",
+              "RelativeToolTip": "ProjeSon2\\anasayfa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:20:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\App.config",
+              "RelativeDocumentMoniker": "ProjeSon2\\App.config",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\App.config",
+              "RelativeToolTip": "ProjeSon2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-24T15:20:10.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Program.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\Program.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\Program.cs",
+              "RelativeToolTip": "ProjeSon2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:20:01.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -79,7 +216,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "blgiris.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\blgiris.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\BL\\blgiris.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\blgiris.cs",
+              "RelativeToolTip": "ProjeSon2\\BL\\blgiris.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:57:17.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "daloda.cs",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\daloda.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\DAL\\daloda.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\daloda.cs",
+              "RelativeToolTip": "ProjeSon2\\DAL\\daloda.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:49:07.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "odalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
+              "RelativeDocumentMoniker": "ProjeSon2\\odalar.cs",
+              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ProjeSon2\\odalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:23:31.445Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "dalgiris.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\dalgiris.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\DAL\\dalgiris.cs",
@@ -91,55 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "odalar.cs",
-              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
-              "RelativeDocumentMoniker": "ProjeSon2\\odalar.cs",
-              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
-              "RelativeToolTip": "ProjeSon2\\odalar.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAMwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:26:14.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "blgiris.cs",
-              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\blgiris.cs",
-              "RelativeDocumentMoniker": "ProjeSon2\\BL\\blgiris.cs",
-              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\blgiris.cs",
-              "RelativeToolTip": "ProjeSon2\\BL\\blgiris.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:57:17.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "daloda.cs",
-              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\daloda.cs",
-              "RelativeDocumentMoniker": "ProjeSon2\\DAL\\daloda.cs",
-              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\daloda.cs",
-              "RelativeToolTip": "ProjeSon2\\DAL\\daloda.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:49:07.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "odalar.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs",
-              "RelativeDocumentMoniker": "ProjeSon2\\odalar.cs",
-              "ToolTip": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\odalar.cs [Tasar\u0131m]",
-              "RelativeToolTip": "ProjeSon2\\odalar.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T14:23:31.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "eloda.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\ENT\u0130TYLAYER\\eloda.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\ENT\u0130TYLAYER\\eloda.cs",
@@ -147,11 +274,12 @@
               "RelativeToolTip": "ProjeSon2\\ENT\u0130TYLAYER\\eloda.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:19:03.063Z"
+              "WhenOpened": "2025-01-20T15:19:03.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "dalrezervasyon.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\dalrezervasyon.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\DAL\\dalrezervasyon.cs",
@@ -159,11 +287,12 @@
               "RelativeToolTip": "ProjeSon2\\DAL\\dalrezervasyon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T15:57:21.53Z"
+              "WhenOpened": "2025-01-20T15:57:21.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "dbbaglanti.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\DAL\\dbbaglanti.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\DAL\\dbbaglanti.cs",
@@ -175,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "elgiris.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\ENT\u0130TYLAYER\\elgiris.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\ENT\u0130TYLAYER\\elgiris.cs",
@@ -187,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "elrezervasyon.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\ENT\u0130TYLAYER\\elrezervasyon.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\ENT\u0130TYLAYER\\elrezervasyon.cs",
@@ -199,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "blrezervasyon.cs",
               "DocumentMoniker": "C:\\Users\\mk\\source\\repos\\NypSonProje\\ProjeSon2\\ProjeSon2\\BL\\blrezervasyon.cs",
               "RelativeDocumentMoniker": "ProjeSon2\\BL\\blrezervasyon.cs",
